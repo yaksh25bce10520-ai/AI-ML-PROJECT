@@ -146,7 +146,7 @@ python main.py
 
 * Name: Yaksh Malasiya
 * Email: yaksh.25bce10520@vitbhopal.ac.in
-* GitHub: ()
+* GitHub: (https://github.com/yaksh25bce10520-ai/AI-ML-PROJECT)
 
 ---
 
